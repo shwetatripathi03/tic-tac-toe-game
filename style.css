@@ -1,0 +1,31 @@
+table {
+  background-color: #ffcc66;
+  table-layout: fixed;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  
+}
+
+table, tr, td {
+  border: 2px solid black;
+   font-size: 40;
+}
+
+.highlight {
+  background-color: red;
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  font-size: 24pt;
+  
+ 
+  color: #993300;
+}
+
+p, h1{
+  text-align: center;
+}
